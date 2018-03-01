@@ -23,3 +23,12 @@
 /app/Config/core.php
 /app/Config/database.php
 /vendors/*
+
+# attachments folder
+/attachments/*
+
+# assets images
+/assets/images/*
+
+# setup file
+/includes/setup.php
